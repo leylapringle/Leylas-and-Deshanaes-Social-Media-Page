@@ -1,0 +1,52 @@
+.bar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #4169E1;
+    border: 5px outset black;
+}
+
+.tweet {
+    color: white;
+}
+
+.tweetr {
+    color: white;
+}
+
+.media {
+    color: white;
+}
+
+.Likes {
+    color: white;
+}
+
+body {
+    background-color: #00008b;
+}
+
+.imgg {
+    width: 10%;
+}
+
+.z {
+    width: 50%;
+}
+
+.twit {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border: 5px outset black;
+    padding: 10px;
+    margin: 15px;
+}
+
+.imgg {
+    border: 5px outset black;
+}
+
+.wrap {
+    background-color: skyblue;
+    border: 5px outset white;
+}
